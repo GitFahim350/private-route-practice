@@ -1,0 +1,35 @@
+.logincard{
+    background-color: white;
+    height: 400px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+input{
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid black;
+    color: rgb(0, 0, 0);
+}
+.loginbutton{
+    width: 80%;
+}
+.rf{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.registration{
+    color: orangered;
+}
+.Loginpage{
+    background-color: white;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

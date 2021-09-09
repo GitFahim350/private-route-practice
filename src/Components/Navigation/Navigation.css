@@ -1,0 +1,21 @@
+.links{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.links:hover{
+    color: rgb(0, 0, 0);
+}
+button{
+    background-color: orangered;
+    border-radius: 10px;
+    color: white;
+    
+    height: 40px;
+    width: 100px;
+    margin-top: 10px;
+    
+
+}
+.Navcolor{
+    height: 10vh;
+}

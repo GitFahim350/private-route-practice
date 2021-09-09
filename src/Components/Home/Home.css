@@ -1,0 +1,13 @@
+.vehicle {
+    background: linear-gradient(rgba(15, 0, 0, 0.4), rgba(15, 0, 0, 0.4)), url('https://i.pinimg.com/originals/40/63/9a/40639a0054b339d12685d654878daa25.jpg');
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-top: -10vh;
+}
+
+.individual {}

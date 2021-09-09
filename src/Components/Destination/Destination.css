@@ -1,0 +1,24 @@
+.destination{
+
+    width: 100%;
+}
+.sec1{
+    display: block;
+}
+.sec2{
+    display: none;
+}
+.sourcedestination{
+    background-color: orangered;
+    color: white;
+    border-radius: 10px
+}
+.cost{
+    display: flex;
+    
+    align-items: center;
+}
+.transportphoto{
+    width: 80px;
+    height: 70px;
+}
